@@ -1,4 +1,5 @@
 import random
+import pytest
 
 # Liste de mots à deviner
 mots = ["python", "ordinateur", "pendu", "programmation", "codage"]
